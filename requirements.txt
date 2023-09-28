@@ -1,0 +1,4 @@
+jupyter-contrib-nbextensions>=0.7.0
+notebook>=7.0.3
+quarto>=0.1.0
+
